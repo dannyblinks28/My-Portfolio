@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #2962ff;
+    margin: 0;
+}
+
+.header {
+    background-color: #757575;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.mylogo {
+    width: 80px;
+    height: 70px;
+}
+
+
+.About-section {
+    text-align: center;
+    margin: 20px 200px;
+    padding: 5px;
+    width: 70%;
+}
+
+h3 {
+    margin: 10px 10px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+hr {
+    margin: 5px;
+}
+
+.main-about1 {
+    background-color: #757575;
+    border-radius: 10px;
+    margin: 10px 10px
+}
+
+.main-about {
+    background-color: #757575;
+    display: flex;
+    margin: 0 10px;
+    flex-direction: row;
+    height: 35rem;
+    padding: 20px;
+    justify-content: center;
+}
+
+.mypic1 {
+    float: right;
+    margin: 0 50px;
+    
+}
+
+h4 {
+    font-weight: bolder;
+    margin: 0 0 15px 0;
+}
+
+p {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+}
+
+.h5 {
+    text-align: center;
+    justify-content: center;
+    padding: 30px;
+    font-weight: 500px;
+    margin-right: 0;
+}
+
+
+
+img {
+    height: 25rem;
+    width: 20rem;
+}
+.Skills-section {
+    text-align: center;
+    margin: 20px 200px;
+    padding: 5px;
+    width: 70%;
+}
+
+.skill-details {
+    background-color: #757575;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.project {
+    text-align: center;
+    margin: 20px 200px;
+    padding: 5px;
+    width: 70%;
+}
+
+.project-section {
+    background-color: #757575;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contacts {
+    width: 500px;
+    background-color: #757575;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    margin: 20px 0 0 450px;
+}
+
+hr {
+    margin: 5px;
+}
+
+form {
+    margin: 25px;
+    text-align: center;
+}
+
+.input-field {
+    width: 400px;
+    height: 40px;   
+    margin-top: 20px;
+    padding: 0 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+
+.textarea-field {
+    height: 150px;
+    padding-top: 10px;
+}
+
+.btn {
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #2962ff;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
